@@ -1,12 +1,5 @@
 # Ideas
 
-4 Common Rules of Robotics
-
-1. Imitate the Best, Invent the Rest
-2. It's probably been done before
-3. KISS - Keep it Sane and Simple
-4. If it ain't broke, don't fix it (this saying is not meant to be a blanket rule against progress; it specifically warns against "changing" something that is already functional without a clear benefit, not against innovation in areas that are truly broken or inefficient)
-
 ## Knowledge Base
 
 I think this [LYNK Library of Knowledge](https://docs.lynkrobotics.org/programming/index.html) is a good example of what we can setup.
@@ -32,6 +25,16 @@ I scoured Cheif Delphi and found a few good threads that make some good points a
 
 > The best piece of advice I’ve been given for when I’ll teach the kids next year is “people love instant rewards”. If you start off with the absolute basics of, e.g., running a motor, rather than going through all the subsystem and command junk right off the bat, you’ll get a reward quickly, encouraging them to keep going.
 
+---
+
+4 Common Rules of Robotics
+
+1. Imitate the Best, Invent the Rest
+2. It's probably been done before
+3. KISS - Keep it Sane and Simple
+4. If it ain't broke, don't fix it (this saying is not meant to be a blanket rule against progress; it specifically warns against "changing" something that is already functional without a clear benefit, not against innovation in areas that are truly broken or inefficient)
+
+---
 
 ![alt text](assets/arch-dig.png)
 
