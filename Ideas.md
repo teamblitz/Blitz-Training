@@ -2,10 +2,10 @@
 
 4 Common Rules of Robotics
 
-1: Imitate the Best, Invent the Rest
-2: It's probably been done before
-3: KISS - Keep it Sane and Simple
-4: If it ain't broke, don't fix it (this saying is not meant to be a blanket rule against progress; it specifically warns against "changing" something that is already functional without a clear benefit, not against innovation in areas that are truly broken or inefficient)
+1. Imitate the Best, Invent the Rest
+2. It's probably been done before
+3. KISS - Keep it Sane and Simple
+4. If it ain't broke, don't fix it (this saying is not meant to be a blanket rule against progress; it specifically warns against "changing" something that is already functional without a clear benefit, not against innovation in areas that are truly broken or inefficient)
 
 ## Knowledge Base
 
@@ -58,7 +58,7 @@ Mathew made a very good point that while [FIRSTinMichigan](https://www.youtube.c
 ### Other teams github projects and training projects.
 
 - [Highlanders-Training](https://github.com/HighlanderRobotics/Highlanders-Training) this is a good one. NOTE: its not the same Highlander as here in CO. 
-- 
+
 - [Phoenix6-Examples](https://github.com/CrossTheRoadElec/Phoenix6-Examples)
 
 ## IDE
@@ -82,11 +82,11 @@ there are many online "instant" IDEs but they usually dont have intellisense for
 ## Git and Github
 
 - [Git Version Control Introduction](https://docs.wpilib.org/en/stable/docs/software/basic-programming/git-getting-started.html#)
-- 
+
 - Take avantage of a [good Git workflow](https://github.com/HighlanderRobotics/Highlanders-Training/blob/main/Docs/1_General/1.3_GitWorkflow.md).  Use PRs and common branch names. 
-- 
+
 - Github supports Markdown natively. Its a simple an powerful way to create docs and communicate. This is written in Markdown. 
-- 
+
 - Github also has a very robust but also simple issue and project managment solution built into each project. We should be taking advantage of it to organize work and communicate issues.
 
 - Keep it clean, its looks like we have some duplicate projects or there was confusions with naming during checkin for kid bot. 
@@ -100,7 +100,7 @@ We should keep a functioning robot, recent kidbot, that can be used and ideally 
 ### Systemcore, RoboRIO Replacement
 
 - In June First [announced the new Systemcore](https://community.firstinspires.org/systemcore-alpha-testing-first-wave)
-- 
+  
 - The new WPI Lib Docs are here with the RoboRio replacment called [Systemcore](https://docs.wpilib.org/en/2027/docs/software/systemcore-info/systemcore-introduction.html) with the [link to the specs](https://downloads.limelightvision.io/documents/systemcore_specifications_june15_2025_alpha.pdf). 
 
 - In October 2025, First posted that we can [apply to be Alpha/Beta testers](https://community.firstinspires.org/2025-control-system-testing-reminder-for-2027). We should consider it. 
