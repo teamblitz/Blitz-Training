@@ -2,7 +2,9 @@
 
 ## Knowledge Base
 
-I think this [LYNK Library of Knowledge](https://docs.lynkrobotics.org/programming/index.html) is a good example of what we can setup.
+I think this [LYNK Library of Knowledge](https://docs.lynkrobotics.org/programming/index.html) is a good example of what we can setup. Github source is [here](https://github.com/LynkRobotics/Lynk-Library-of-Knowledge). 
+
+Markdown is very simple to use and is the foundation for the majority of tech docs in the wild. Its sits at the foundation of Github as well as most features like issues, wiki, PRs, commit comments etc. It backs a huge portion of content on techincal websites as well. I included a quick cheat sheet in this project that has a link to a good playground. [markdownCheatSheet.md](markdownCheatSheet.md)
 
 ## Training
 
@@ -38,12 +40,14 @@ I scoured Cheif Delphi and found a few good threads that make some good points a
 
 ![alt text](assets/arch-dig.png)
 
-### Romi
+### Romi or XRP
 
 I have seen Romi mentioned a number of times and I think it looks like a good simple options for new programmers to play with. It appears it uses WPILib and the Driver Station so it will ideally keep everything within the same context. 
 
 I think ROMI could be a good way to get familiar with the First infrastructure and how to make a simple robot do things with JAVA and the WPI Lib tools. 
 
+- [WPI Lib Getting Started with XRP](https://docs.wpilib.org/en/stable/docs/xrp-robot/index.html)
+- The FIRSTinMichigan has a good playlist - [2024 XRP Coding](https://www.youtube.com/watch?v=Nlk52QdoasE&list=PL6fCSvDccI_6WcjBqj2C3J-VmyX9Yv0Zl)
 - [WPI Lib Getting Started with Romi](https://docs.wpilib.org/en/stable/docs/romi-robot/index.html)
 - [RomiTutorial2023](https://github.com/DevilBotz2876/RomiTutorial2023) this looks like a decent example project that can be used for examples too. Shows how they use it for all the things up to and including paht planning and vision. 
 
@@ -84,9 +88,16 @@ there are many online "instant" IDEs but they usually dont have intellisense for
 
 ## Git and Github
 
+### Git
+
 - [Git Version Control Introduction](https://docs.wpilib.org/en/stable/docs/software/basic-programming/git-getting-started.html#)
 
 - Take avantage of a [good Git workflow](https://github.com/HighlanderRobotics/Highlanders-Training/blob/main/Docs/1_General/1.3_GitWorkflow.md).  Use PRs and common branch names. 
+
+- Use PRs for every commit to base branch with good comments on what was done.
+  - This will allow younger memebrs to review what was done and follow along as best as they can. 
+
+### Github
 
 - Github supports Markdown natively. Its a simple an powerful way to create docs and communicate. This is written in Markdown. 
 
@@ -94,9 +105,28 @@ there are many online "instant" IDEs but they usually dont have intellisense for
 
 - Keep it clean, its looks like we have some duplicate projects or there was confusions with naming during checkin for kid bot. 
 
+- Create a Org profile `readme.md` [as explained here](https://github.blog/changelog/2021-09-14-readmes-for-organization-profiles/)
+
 ## Rapid Prototypes and POC
 
 We should keep a functioning robot, recent kidbot, that can be used and ideally dedicated to programming. It can serve as platform for new developers to experiment but also primarly serve as baseline for getting core fundamentals worked out before and while the main bot is being built. 
+
+## DevOps
+
+DevOps has been cemeneted in the indeustry as a ubiquitous set of practices, tools and philosophy. We can beenfit from it. 
+
+> DevOps can involve one developer or multiple engineers, depending on the organization's size, structure, and maturity. The key is not the number of people, but the collaborative culture and shared responsibility for delivering reliable, high-quality software.
+
+> DevOps is a software development methodology that supports the efficient, continuous delivery of innovative, high-performing applications and services.
+> 
+> By integrating the processes, tools, and practices used by software development (Dev) and IT operations (Ops) teams, it builds speed and agility into every phase of the development lifecycle so that organizations can compete more effectively. -- GITHUB
+
+
+These are 2 good quick overviews of what it means.
+
+- [Github DevOps](https://github.com/resources/articles/what-is-devops)
+- [Atlassian - What Is DevOps?](https://www.atlassian.com/devops)
+
 
 ## 2027 and Future
 
