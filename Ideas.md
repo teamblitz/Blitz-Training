@@ -38,7 +38,7 @@ I scoured Cheif Delphi and found a few good threads that make some good points a
 
 ---
 
-<img style="max-height:150px" src="assets/arch-dig.png" />
+<img style="height:150px" src="assets/arch-dig.png" />
 
 ### Romi or XRP
 
@@ -52,7 +52,7 @@ The main website gives a great overview [experientialrobotics.org](https://exper
 
 > The XRP is an open-robotics platform designed to help you take your first steps into engineering, robotics, and software development.
 
-<img style="max-height:300px" src="assets/xrp-bridge.png" />
+<img style="height:300px" src="assets/xrp-bridge.png" />
 
 - [This is the new kit](https://www.sparkfun.com/experiential-robotics-platform-xrp-kit.html) at SparkFun. 
 - [WPI Lib Getting Started with XRP](https://docs.wpilib.org/en/stable/docs/xrp-robot/index.html)
