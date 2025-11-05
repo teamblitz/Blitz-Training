@@ -38,7 +38,7 @@ I scoured Cheif Delphi and found a few good threads that make some good points a
 
 ---
 
-![alt text](assets/arch-dig.png)
+<img style="max-height:150px" src="assets/arch-dig.png" />
 
 ### Romi or XRP
 
@@ -47,6 +47,12 @@ I have seen Romi mentioned a number of times and I think it looks like a good si
 I think ROMI could be a good way to get familiar with the First infrastructure and how to make a simple robot do things with JAVA and the WPI Lib tools. 
 
 #### XRP
+
+The main website gives a great overview [experientialrobotics.org](https://experientialrobotics.org/)
+
+> The XRP is an open-robotics platform designed to help you take your first steps into engineering, robotics, and software development.
+
+<img style="max-height:300px" src="assets/xrp-bridge.png" />
 
 - [This is the new kit](https://www.sparkfun.com/experiential-robotics-platform-xrp-kit.html) at SparkFun. 
 - [WPI Lib Getting Started with XRP](https://docs.wpilib.org/en/stable/docs/xrp-robot/index.html)
