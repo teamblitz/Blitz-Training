@@ -46,10 +46,21 @@ I have seen Romi mentioned a number of times and I think it looks like a good si
 
 I think ROMI could be a good way to get familiar with the First infrastructure and how to make a simple robot do things with JAVA and the WPI Lib tools. 
 
+#### XRP
+
+- [This is the new kit](https://www.sparkfun.com/experiential-robotics-platform-xrp-kit.html) at SparkFun. 
 - [WPI Lib Getting Started with XRP](https://docs.wpilib.org/en/stable/docs/xrp-robot/index.html)
 - The FIRSTinMichigan has a good playlist - [2024 XRP Coding](https://www.youtube.com/watch?v=Nlk52QdoasE&list=PL6fCSvDccI_6WcjBqj2C3J-VmyX9Yv0Zl)
+- Discussion on vision [here](https://www.chiefdelphi.com/t/camera-or-vision-project/502712) and [here](https://www.chiefdelphi.com/t/xrp-can-see-apriltags-is-this-practical-for-other-objects/474462) and [Youtube link here](https://www.youtube.com/watch?v=YXhtoQTlq6U) with links in description from mentor going over april tags.
+
+#### Romi
+
 - [WPI Lib Getting Started with Romi](https://docs.wpilib.org/en/stable/docs/romi-robot/index.html)
 - [RomiTutorial2023](https://github.com/DevilBotz2876/RomiTutorial2023) this looks like a decent example project that can be used for examples too. Shows how they use it for all the things up to and including paht planning and vision. 
+
+### Mario Cart
+
+Keeping Mario Cart ready to go as a test and training bench. 
 
 
 ### Youtube Videos
