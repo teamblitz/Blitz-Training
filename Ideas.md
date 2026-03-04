@@ -147,6 +147,8 @@ These are 2 good quick overviews of what it means.
 
 ## 2027 and Future
 
+take a look at https://www.chiefdelphi.com/t/introducing-yet-another-software-suite-yams-yall-yamg-yagsl/506826
+
 ### Systemcore, RoboRIO Replacement
 
 - In June First [announced the new Systemcore](https://community.firstinspires.org/systemcore-alpha-testing-first-wave)
