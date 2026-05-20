@@ -9,6 +9,7 @@ import org.littletonrobotics.junction.networktables.LoggedDashboardChooser;
 
 public class RobotContainer {
 
+  // Creates an object of Motor that calls the Motor subsystem.
   private final Motor motor = new Motor(new MotorIOKraken());
 
   private final LoggedDashboardChooser<Command> autoChooser;
@@ -20,6 +21,7 @@ public class RobotContainer {
     configureButtonBindings();
   }
 
+  // Sets the commands for a subsystem
   private void configureButtonBindings() {
     OIConstants.Motor.FORWARD.whileTrue(motor.setSpeed(0.1));
   }
